@@ -1,10 +1,11 @@
-# rss_feed
+# RSS_Feed
 
-A new Flutter project.
+A Flutter application that retrieves and displays the NASA [Image of the Day](https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss) RSS Feed. 
 
-## Getting Started
+## References
 
-This project is a starting point for a Flutter application.
+- [NASA RSS Feeds](https://www.nasa.gov/content/nasa-rss-feeds)
+- [Parsing RSS Feeds in Flutter](www.coderzheaven.com/2019/12/08/parsing-rss-feeds-in-flutter/)
 
 A few resources to get you started if this is your first Flutter project:
 
